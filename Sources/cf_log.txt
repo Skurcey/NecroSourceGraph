@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Cylinder001 (file: 'D:\3dsmax\Necromunda\acidpool.FBX') [ (line 0)]
